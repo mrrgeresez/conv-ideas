@@ -1,2 +1,5 @@
-# conv-ideas
-The beginning of a new company
+# Conv-Ideas
+
+### The beginning of a new company
+
+arduino, sql, python...
